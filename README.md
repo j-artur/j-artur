@@ -10,7 +10,7 @@ Here are some things you might not know about me:
 
 - I'm Brazilian. 🇧🇷
 - I am majoring Computer Science at the Federal Rural University of the Semi-Arid. 🎓
-- I develop software as a way to improve my life and help other people. (And also because it's fun!) 🤝
+- I develop software as a way to improve my day-to-day life and help other people. (And also because it's fun!) 🤝
 - I'm always learning some new technology. 💻
 
 These are some languages I have a bit of experience with:
