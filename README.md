@@ -9,7 +9,7 @@ I'm a software developer, but considering you're here, you probably already knew
 Here are some things you might not know about me:
 
 - I'm Brazilian. 🇧🇷
-- I am majoring Computer Science at the Federal Rural University of the Semi-Arid. 🎓
+- I am majoring Computer Science at the Federal Rural University of the Semi-Arid (UFERSA). 🎓
 - I develop software as a way to improve my day-to-day life and help other people. (And also because it's fun!) 🤝
 - I'm always learning some new technology. 💻
 
